@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "currency": {
+      "command": "node",
+      "args": ["/Users/harrishs/Desktop/Corzent/currency_mcp/index.js"]
+    }
+  }
+}
